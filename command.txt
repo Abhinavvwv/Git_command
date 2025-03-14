@@ -1,0 +1,29 @@
+git config --global user.name "abhinavcs">> configure git with our username 
+
+git config --global user.email "abhinavcs460@gmail.com>>configuregit with our emailid
+
+configuration requires while pushing towards a public repositpry in github form local repositpry
+
+git status >> uses to check that status of .git in the current directory 
+
+git init >> to initialize git in the current directory (helps to tarck the changes in our directory
+
+* if we, add delete a file it will track it as  a change in the directory )
+
+u >> represents untarcked ( file is there not yet commmited or not added to staging area )
+
+A >> files that added to staging area 
+
+M >> represented  files being modified  after commited 
+
+git add intro.txt >>intro.txt added to staging area
+
+git add . >> all files added to staging area
+
+A >> files that added to staging area 
+
+git commit -m "my first commit"
+
+git push- u
+
+git clone <repository url>  >> for cloning a repository form github 
